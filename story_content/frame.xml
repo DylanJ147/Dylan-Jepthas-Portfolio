@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="110" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="150" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="AA Smart Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="AA Smart Sans" controllayout="pxabnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="AA Smart Sans" controllayout="npxnabnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="AA Smart Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="AA Smart Sans" controllayout="pxabnsnfns00000000000" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
-    <layout name="pxnanbnsnfns00000000001" font="AA Smart Sans" controllayout="pxnanbnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Aron Medium" controllayout="npnxnanbsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Aron Medium" controllayout="pxabnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Aron Medium" controllayout="npxnabnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Aron Medium" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Aron Medium" controllayout="pxabnsnfns00000000000" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
+    <layout name="pxnanbnsnfns00000000001" font="Aron Medium" controllayout="pxnanbnsnfns00000000001" colorscheme="pxnanbnsnfns00000000001" string_table="pxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
               <option name="title_text" value="Dylan Jepthas Portfolio" />
             </options>
@@ -29,6 +29,13 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="MENU" />
+                  <property name="data" value="5yDd6AgMiLL" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -1196,7 +1203,7 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="AA Smart Sans">
+    <font name="Aron Medium">
       <files>
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
@@ -1211,9 +1218,10 @@
         <slidelink slideid="_player.5fRuDC2DP4m" displaytext="Branding" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.67iBOcrkYXS.6puNF1i0fI0" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.67iBOcrkYXS.5mdDTHc9Fqq" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.67iBOcrkYXS.5mdDTHc9Fqq" displaytext="Content" expand="false" type="slide" />
+            <slidelink slideid="_player.67iBOcrkYXS.6owZsw0oHMS" displaytext="How to Navigate" expand="false" type="slide" />
             <slidelink slideid="_player.5fRuDC2DP4m.6Jcuzj0omIH" displaytext="R242" expand="false" type="slide" />
-            <slidelink slideid="_player.5fRuDC2DP4m.5zEhdW2da13" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fRuDC2DP4m.5zEhdW2da13" displaytext="NovaGlobe" expand="false" type="slide" />
             <slidelink slideid="_player.5fRuDC2DP4m.6PQ5WiGZ28p" displaytext="White Rabbit" expand="false" type="slide" />
             <slidelink slideid="_player.5fRuDC2DP4m.66iPQ8H9iHx" displaytext="Daisy's Flowers" expand="false" type="slide" />
             <slidelink slideid="_player.5fRuDC2DP4m.6A5ongxymeo" displaytext="Future Memory" expand="false" type="slide" />
